@@ -1,2 +1,4 @@
 # mysite
-This is my Github as well as my professional portfolio site.
+This is my Github portfolio site.
+
+This site contains reference to my works and associated genres.
